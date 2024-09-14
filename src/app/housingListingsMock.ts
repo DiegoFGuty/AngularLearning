@@ -1,4 +1,4 @@
-import { HousingLocation } from '../housingLocation';
+import { HousingLocation } from './housingLocation';
 const housingListingsMock: HousingLocation[] = [
   {
     id: 0,
